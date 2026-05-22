@@ -143,5 +143,5 @@ using multi-sensor fusion data.
 - **Email:** ethantiamson@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ethancarltiamson
 - **University:** University of Delaware
-- **Program:** B.S. Electrical Engineering
+- **Program:** B.E. Electrical Engineering
 - **Expected Graduation:** May 2029
